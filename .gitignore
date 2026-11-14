@@ -1,0 +1,7 @@
+[Dd]ocs/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
