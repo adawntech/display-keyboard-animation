@@ -1,7 +1,14 @@
-[Dd]ocs/
+docs/
+dist/
 
 # macOS
 .DS_Store
 
 # Windows
 Thumbs.db
+
+# node
+node_modules/
+
+# environment variables
+.env
